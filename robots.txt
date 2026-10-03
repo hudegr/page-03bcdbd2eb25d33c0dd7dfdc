@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-876b979ec4.qibu07.cn/sitemap.xml
